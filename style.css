@@ -27,7 +27,7 @@ body {
     display: flex;
     flex-direction: column;
 
-    border: 2px solid green;
+    /*border: 2px solid green;*/
     width: 100%;
 }
 
@@ -148,7 +148,7 @@ h2 {
     }
     .sub-container {
         height: 355px;
-        border: 2px solid red;
+        /*border: 2px solid red;*/
         flex-direction: row-reverse;
         justify-content: flex-start;
         width: 90%;
